@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GestureDemo</string>
+    <string name="title_activity_pan_gesture">Drag Drop Gesture</string>
+    <string name="title_activity_resize_gesture">Pinch Zoom Gesture</string>
+    <string name="hello">Hellow</string>
+    <string name="title_activity_rotate_gesture">Rotate Gesture</string>
+</resources>
